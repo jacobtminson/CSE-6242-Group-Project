@@ -8,6 +8,7 @@
   -> e.g. on your terminal write: cd User/CSE6242/team003final
 5. Run the model to get all the necessary files for the UI\
   -> you only need to run this ONCE!\
+  -> this takes about an hour..\
   -> e.g. on your terminal write: python CODE/data_ranked_list.py
 6. Run the UI (after 5. is done)\
   -> e.g. on your terminal write: python CODE/college_audit_dash.py
