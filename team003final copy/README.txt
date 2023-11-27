@@ -15,8 +15,9 @@ team003final (root; current directory)
         \_ college_audit_ui.py - main code file to run UI (run this file after executing data_ranked_list.py)
         \_ dtype.txt - a text file used in the data cleaning script to set the datatypes of the columns 
         \_ location_info.csv - location data of all schools for UI 
+        \_ image - a folder with output image file of our model's performance (scatterplot.png)
     \_ data - a folder with raw data files (457.4 MB) which are extracted from the 'All Data Files' zip file downloaded from College Scorecard (https://collegescorecard.ed.gov/data/) 
-    \_ image - a folder with output image files of our model's performance (scatterplot.png)
+    
 
 ------------------------------------------------------------------------------------------
  
